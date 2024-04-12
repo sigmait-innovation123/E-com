@@ -1,0 +1,5 @@
+api key:
+https://fakestoreapi.com/
+
+keyid :- rzp_test_ZEZRsnIhFqwq4H
+secret :- 2F0pH1twgO9v5kJ6Mu1tZNmH

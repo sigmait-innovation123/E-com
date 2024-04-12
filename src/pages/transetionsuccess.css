@@ -1,0 +1,30 @@
+.transection-body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.transetion-main{
+    height: 250px;
+    width: 600px;
+    background-color: rgb(202, 230, 190);
+    border-radius: 20px;
+    border: solid 1px black;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    -webkit-box-shadow: 10px 10px 46px -28px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 46px -28px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 46px -28px rgba(0,0,0,0.75);
+}
+
+.inner-id{
+    /* background-color: greenyellow; */
+}
+
